@@ -1,0 +1,2 @@
+20230412	06:10:44	35cdb13d-28cc-4109-b2f8-db873879dc1c	Error: Not allowed by CORS
+20230412	06:33:55	02a3c69a-dc44-44ef-acee-968aba3c06cd	Error: ENOENT: no such file or directory, stat 'F:\Work\Liberary\Courses\Full Stack JavaScript\Dave Gray\node-js\08tut\routes\views\index.html'
